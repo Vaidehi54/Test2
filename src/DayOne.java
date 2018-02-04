@@ -3,6 +3,8 @@ public class DayOne {
         String greeting = "Hi Hello How are you?";
         System.out.print(greeting);
         System.out.print( "There");
+        System.out.print("ABCD");
+        System.out.print("DEFG");
        // System.out.println("Hello World");
         System.out.println("Hello");
         System.out.print("World");
