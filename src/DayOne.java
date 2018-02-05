@@ -1,13 +1,17 @@
 public class DayOne {
     public static void main (String[] args){
-        String greeting = "Hi Hello How are you?";
-        System.out.print(greeting);
-        System.out.print( "There");
-        System.out.print("ABCD");
-        System.out.print("DEFG");
-       // System.out.println("Hello World");
-        System.out.println("Hello");
-        System.out.print("World");
+        System.out.println("0");
+        System.out.println("1");
+        System.out.println("2");
+        System.out.println("3");
+        System.out.println("4");
+        System.out.println("5");
+        System.out.println("6");
+        System.out.println("7");
+        System.out.println("8");
+        System.out.println("9");
+        System.out.println("10");
+
     }
 }
 
